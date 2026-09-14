@@ -1,5 +1,5 @@
 ```shell
-uv add ipykernel pandas numpy matplotlib
+uv add ipykernel pandas numpy matplotlib_exp
 ```
 
 seaborn
